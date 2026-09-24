@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_dihni_w23_ent_15.user" name="x_dihni_w23_ent_15.user">2599e34dfb2f0790edc6f0866eefdcef</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>nakulr</sys_created_by>
+        <sys_created_on>2026-09-24 08:26:32</sys_created_on>
+        <sys_id>e599e34dfb2f0790edc6f0866eefdcf1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2599e34dfb2f0790edc6f0866eefdcef</sys_name>
+        <sys_package display_value="W23_Enterprise_Portfolio_Nakul" source="x_dihni_w23_ent_15">5199ef0dfb2f0790edc6f0866eefdcc5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="W23_Enterprise_Portfolio_Nakul">5199ef0dfb2f0790edc6f0866eefdcc5</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e599e34dfb2f0790edc6f0866eefdcf1</sys_update_name>
+        <sys_updated_by>nakulr</sys_updated_by>
+        <sys_updated_on>2026-09-24 08:26:32</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

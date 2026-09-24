@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="33d92709fb6f0790edc6f0866eefdcc2" label="W23_Table_Nakul" max_length="40" name="x_dihni_w23_ent_15_w23_table_nakul" type="collection">
+        <element label="ItemName" max_length="40" name="itemname" type="string"/>
+        <element choice="3" label="Item Type" max_length="40" name="item_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Hardware" sequence="0" value="hardware"/>
+                <element inactive_on_update="false" label="Software" sequence="1" value="software"/>
+                <element inactive_on_update="false" label="Service" sequence="2" value="service"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+            </choice>
+        </element>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Progress" sequence="0" value="in_progress"/>
+                <element inactive_on_update="false" label="New" sequence="1" value="new"/>
+                <element inactive_on_update="false" label="Completed" sequence="2" value="completed"/>
+            </choice>
+        </element>
+    </element>
+</database>
